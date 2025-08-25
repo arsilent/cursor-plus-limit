@@ -1,4 +1,4 @@
-# 🚀 Cursor Plus - Claude-4 Sonnet Unlocker
+# 🚀 Cursor Plus - Claude-4 Sonnet Boost Limit
 
 **Cursor 1.2.0 destekli güncellenmiş sürüm!**
 
@@ -115,7 +115,7 @@ Script aşağıdaki fonksiyonları değiştirir:
 
 ## ⚖️ Yasal Uyarı
 
-Bu araç eğitim amaçlıdır. Kullanımından doğacak sorumluluk kullanıcıya aittir.
+Kullanımından doğacak sorumluluk kullanıcıya aittir.
 
 ## 🤝 Katkıda Bulunma
 
@@ -127,7 +127,7 @@ Bu araç eğitim amaçlıdır. Kullanımından doğacak sorumluluk kullanıcıya
 
 ## 📝 Changelog
 
-### v1.2.0 (2024-01-XX)
+### v1.2.0 (2025-07-XX)
 - ✅ Cursor 1.2.0 tam uyumluluğu
 - 🔧 Yeni pattern recognition algoritması
 - 🚀 Geliştirilmiş güvenilirlik
@@ -141,4 +141,4 @@ Bu araç eğitim amaçlıdır. Kullanımından doğacak sorumluluk kullanıcıya
 
 ---
 
-**Made with ❤️ for Cursor community**
+**Made with ❤️ for Arsilent Team**
