@@ -113,10 +113,6 @@ Script aşağıdaki fonksiyonları değiştirir:
 - 🚀 Daha kararlı model erişimi
 - 🛡️ Artırılmış güvenlik önlemleri
 
-## ⚖️ Yasal Uyarı
-
-Kullanımından doğacak sorumluluk kullanıcıya aittir.
-
 ## 🤝 Katkıda Bulunma
 
 1. Fork edin
